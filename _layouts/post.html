@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  <p class="post-meta">Published on {{ page.date | date: "%B %d, %Y" }} {% if page.categories %} | {{ page.categories | join: ", " }}{% endif %}</p>
+
+  <div class="ad-slot">Ad Space - Google AdSense</div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div class="ad-slot">Ad Space - Google AdSense</div>
+
+  <div style="background: #eef4ff; border: 2px solid #2563eb; border-radius: 12px; padding: 25px; margin: 30px 0; text-align: center;">
+    <h3 style="color: #1e3a5f; margin-top: 0;">Take Control of Your Car Budget</h3>
+    <p style="color: #555; margin-bottom: 15px;">Plan your next car purchase or track maintenance costs with our Notion templates.</p>
+    <a href="https://smarttemplatesell.gumroad.com/l/budget-planner" target="_blank" style="display: inline-block; background: #2563eb; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; margin: 5px;">Monthly Budget Planner - $7.99</a>
+    <a href="https://smarttemplatesell.gumroad.com/l/side-hustle" target="_blank" style="display: inline-block; background: #16a34a; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; margin: 5px;">Side Hustle Dashboard - $9.99</a>
+  </div>
+</article>
