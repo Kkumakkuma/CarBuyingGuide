@@ -24,7 +24,7 @@ defaults:
       layout: "post"
       comments: true
 
-google_analytics: "G-5L40K3SBQT"
+google_analytics: "G-M7B5BZ9TDC"
 
 exclude:
   - scripts/
