@@ -1,4 +1,4 @@
 ---
 layout: home
-title: CarBuyingGuide - Your Ultimate Auto Buying & Maintenance Resource
+title: "CarBuyingGuide &mdash; Car buying advice from someone who negotiated three cars and survived."
 ---

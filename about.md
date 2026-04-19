@@ -1,28 +1,39 @@
 ---
 layout: default
-title: About CarBuyingGuide
+title: "About CarBuyingGuide"
 permalink: /about/
-description: "CarBuyingGuide helps you make smarter decisions when buying, maintaining, and financing your vehicle."
+description: "About Kkuma Park, the writer behind CarBuyingGuide."
 ---
 
 # About CarBuyingGuide
 
-CarBuyingGuide is your trusted resource for everything related to buying, owning, and maintaining a car without breaking the bank.
+## Who writes here
 
-Whether you're a first-time buyer or a seasoned driver looking to save money, we provide practical, no-nonsense advice you can use right away.
+My name is **Kkuma Park**. I'm an independent writer and developer based in Seoul, South Korea. I've spent more than a decade in IT, built a handful of small software products, and along the way accumulated a list of personal experiments, mistakes, and hard-won notes that turned into this blog.
 
-## What We Cover
+I've bought three used cars and watched two friends get ripped off at dealerships. CarBuyingGuide is the list of questions, checks, and walk-away lines I wish I had on my first purchase — and what I now use every time.
 
-- **Car Buying** - How to negotiate the best deal and avoid common traps
-- **Used Cars** - Finding reliable used vehicles and what to inspect before buying
-- **Car Maintenance** - Keep your car running smoothly and avoid costly repairs
-- **Car Insurance** - Tips to get the best coverage at the lowest rate
-- **Electric Vehicles** - Everything you need to know about going electric
-- **Car Finance** - Understanding loans, leases, and how to save on your purchase
-- **Driving Tips** - Fuel efficiency, safety, and road trip essentials
+## What CarBuyingGuide is for
 
-## Our Mission
+CarBuyingGuide is my working notebook on **car buying**. Every article here exists because I needed the answer myself at some point and couldn't find a version I trusted.
 
-We believe every driver deserves honest, straightforward car advice. Our mission is to help you save money and make confident decisions at every step of car ownership.
+I try to follow three rules on this site:
 
-New articles are published daily. Subscribe to our [RSS feed](/feed.xml) to never miss a post.
+1. **Write from experience, not summary.** If I haven't actually done it, I won't pretend I have.
+2. **Show the numbers.** Where real data, tests, or costs are useful, I include them.
+3. **Update when I'm wrong.** If I learn that an earlier post was inaccurate, I fix the post and add a note.
+
+## How I run this blog
+
+- Posts are published on a regular schedule.
+- I use AI tools (such as ChatGPT) to help with drafting structure and outlines, but every published post is reviewed, edited, and fact-checked by me before it goes live.
+- Affiliate links, when used, are marked. I only link to products I have actually used or would genuinely recommend.
+- Ads on this site come from Google AdSense once my site is approved. Ads help keep the site free to read.
+
+## Get in touch
+
+Questions, corrections, feedback, or collaboration ideas are welcome.
+
+**Email:** [kkumaspark@gmail.com](mailto:kkumaspark@gmail.com)
+
+For privacy, legal, and data practices, please see the [Privacy Policy](/privacy-policy/), [Terms](/terms/), and [Disclaimer](/disclaimer/).
