@@ -7,6 +7,8 @@ description: "Explore my in-depth 12-month review on buying a 2026 electric vehi
 tags: [electric-vehicles, automotive, 2026]
 ---
 
+![Is Buying a 2026 Electric Vehicle Worth It? My 12-Month Review](/CarBuyingGuide/assets/pin-images/2026-04-25-is-buying-a-2026-electric-vehicle-worth-it-my-12-month-review.png)
+
 When I decided to go electric, my goal was to save money while contributing to a cleaner environment. In October 2022, I took the plunge and bought my first electric vehicle (EV), a 2026 Tesla Model 3, for around $42,000. As I reflect on the past 12 months driving this car, I’ve faced both pleasant surprises and unexpected costs. Was the investment truly worth it? Let’s dive into my detailed review and what you should consider if you're thinking about jumping into the 2026 electric vehicle market.
 
 ## Breaking Down the Decision to Go Electric

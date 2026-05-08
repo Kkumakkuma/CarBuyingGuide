@@ -6,6 +6,8 @@ categories: [car-buying]
 description: "3 Things You Should Never Say to a Car Dealer - Expert tips and advice for smart car buyers and owners."
 ---
 
+![3 Things You Should Never Say to a Car Dealer](/CarBuyingGuide/assets/pin-images/2026-04-08-3-things-you-should-never-say-to-a-car-dealer.png)
+
 When you walk into a car dealership, you’re stepping into a world filled with excitement and potential new rides. However, navigating the dealership scene can be tricky, especially if you're unprepared. One important aspect of the car-buying experience is communication. The way you talk to car dealers can significantly affect your experience and the deal you end up with. To help you avoid common pitfalls, let’s dive into the three things you should never say to a car dealer.
 
 ## 1. "What’s the Best Price You Can Give Me?"

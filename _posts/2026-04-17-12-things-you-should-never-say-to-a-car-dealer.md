@@ -6,6 +6,8 @@ categories: [car-buying]
 description: "12 Things You Should Never Say to a Car Dealer - Expert tips and advice for smart car buyers and owners."
 ---
 
+![12 Things You Should Never Say to a Car Dealer](/CarBuyingGuide/assets/pin-images/2026-04-17-12-things-you-should-never-say-to-a-car-dealer.png)
+
 Navigating the car buying process can feel a bit like stepping into a high-stakes game. Whether you’re a seasoned buyer or a first-timer, the words you choose to say (and avoid saying) can significantly impact your experience with a dealer. Understanding what not to say can empower you during negotiations and help you secure the best deal possible. 
 
 In this article, we’ll look at 12 things you should never say to a car dealer. Avoiding these phrases may help you sidestep common pitfalls and ultimately walk away with a deal that fits both your needs and your wallet.
